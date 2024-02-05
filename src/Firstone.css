@@ -1,0 +1,30 @@
+header {
+    height: 80px;
+}
+
+img {
+    height: 80px;
+}
+.heading {
+    color: rgba(5, 245, 237, 0.979);
+    text-align: center;
+    padding:10px
+}
+
+p{
+    text-decoration: none;
+    font-family: algerian;
+    font-size: 45px;
+}
+p:hover{
+    color: aqua;
+}
+
+.link {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 25px;
+    font-family: algerian;
+    font-weight: bolder;
+}
